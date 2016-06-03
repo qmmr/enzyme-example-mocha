@@ -4,7 +4,7 @@
   "description": "Example project with React + Enzyme + Mocha",
   "main": "build/index.js",
   "scripts": {
-    "test": "mocha test/.setup.js test/**/*-test.js"
+    "test": "mocha test/.setup.js test/**/*-test.js --watch"
   },
   "repository": {
     "type": "git",
